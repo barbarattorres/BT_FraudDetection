@@ -23,10 +23,13 @@ These metrics indicate the system's effectiveness in correctly identifying fraud
 
 ## Technologies Used
 - **Python**
-- **Pandas**
-- **sklearn**
+- **scikit-learn**
+- **Matplotlib**
+- **Seaborn**
+- **Keras**
 - **TensorFlow**
 - **Optuna**
+- **Plotly**
 
 ## Installation
 To run the project locally, follow these steps:
